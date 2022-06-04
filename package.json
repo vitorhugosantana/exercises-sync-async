@@ -6,5 +6,8 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "ED Team"
+  "author": "ED Team",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
 }
