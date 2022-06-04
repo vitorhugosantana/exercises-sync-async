@@ -14,7 +14,7 @@ Neste exercício você deve simular o que acontece no vídeo de [Sincronismo vs 
 
 # Assíncrono
 
-Quando for chamado de forma Síncrona, deve ser executado o seguinte comando `node index.js async`
+Quando for chamado de forma Síncrona, deve ser executado o seguinte comando `node src/index.js async`
 
  <img alt="Síncrona" src="https://res.cloudinary.com/eufelipe/image/upload/v1654375271/EDevs/async_tiwotu.gif">
 
@@ -23,7 +23,7 @@ Quando for chamado de forma Síncrona, deve ser executado o seguinte comando `no
 
 # Síncrono
 
-Quando for chamado de forma assíncrona, deve ser executado o seguinte comando `node index.js sync`
+Quando for chamado de forma assíncrona, deve ser executado o seguinte comando `node src/index.js sync`
 
  <img alt="Síncrona" src="https://res.cloudinary.com/eufelipe/image/upload/v1654375271/EDevs/sync_uvoajt.gif">
 
