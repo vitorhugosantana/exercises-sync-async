@@ -1,6 +1,6 @@
 # Sincronismo vs Assincronismo
 
-Neste exercício você deve simular o que acontece no vídeo de [Sincronismo vs Assincronismo](https://drive.google.com/file/d/1h4IN3Q4RqMMU_W_7RQmkS2L-XCYJ10Em/view?usp=sharing) Você precisará implementar 4 funções no arquivo `tasks.js` que esta na pasta `./src/service` para que ela retorne de acordo com o vídeo.
+Neste exercício você deve simular o que acontece no vídeo de [Sincronismo vs Assincronismo](https://drive.google.com/file/d/1h4IN3Q4RqMMU_W_7RQmkS2L-XCYJ10Em/view?usp=sharing) Você precisará implementar 4 funções no arquivo `tasks.js` que esta na pasta `src` para ela retornar conforme o vídeo abaixo.
 
 &nbsp;
 

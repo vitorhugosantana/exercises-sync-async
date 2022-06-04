@@ -8,6 +8,7 @@
   },
   "author": "ED Team",
   "dependencies": {
+    "colors": "^1.4.0",
     "jest": "^28.1.0"
   }
 }
